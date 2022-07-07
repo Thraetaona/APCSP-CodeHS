@@ -1,0 +1,32 @@
+def burry_ball():
+    turn_left()
+    turn_left()
+    turn_left()
+    move()
+    move()
+    move()
+    put_ball()
+    turn_left()
+    turn_left()
+    move()
+    move()
+    move()
+    turn_left()
+    turn_left()
+    turn_left()
+    
+move()
+move()
+burry_ball()
+    
+move()
+move()
+move()
+burry_ball()
+    
+    
+move()
+move()
+move()
+burry_ball()
+move()
